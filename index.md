@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to GitHub Pages"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Learn how to build and host a GitHub Pages site. How to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub.
